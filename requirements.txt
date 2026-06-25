@@ -1,0 +1,6 @@
+duckdb==0.8.1
+dbt-duckdb==1.7.1
+prefect==2.14.0
+streamlit==1.28.0
+folium==0.14.1
+pandas==2.1.1
